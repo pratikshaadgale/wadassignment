@@ -1,0 +1,4 @@
+Name:Pratiksha Adgale
+Class:TE
+Subject:WAD
+Description:This is first text file-1
